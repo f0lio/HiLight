@@ -2,7 +2,7 @@
   "name": "hilight",
   "displayName": "HiLight",
   "description": "Highlight range(s) of a file for smooth coding/debugging",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "publisher": "f0lio",
   "engines": {
     "vscode": "^1.63.0"
